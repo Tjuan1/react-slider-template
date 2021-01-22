@@ -164,7 +164,7 @@ Slider
   display: flex;
   overflow: hidden;
 }
-.person-img {
+.album-img {
   border-radius: 50%;
   margin-bottom: 1rem;
   width: 150px;
@@ -178,7 +178,7 @@ article h4 {
   color: var(--clr-primary-5);
   margin-bottom: 0.25rem;
 }
-.title {
+.date {
   text-transform: capitalize;
   margin-bottom: 0.75rem;
   color: var(--clr-grey-3);

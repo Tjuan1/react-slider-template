@@ -1,40 +1,32 @@
-const people = [
+const albums = [
   {
     id: 1,
-    image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg',
-    name: 'maria ferguson',
-    title: 'office manager',
-    quote:
-      'Fingerstache umami squid, kinfolk subway tile selvage tumblr man braid viral kombucha gentrify fanny pack raclette pok pok mustache.',
-  },
+    image: 'https://vmp-www.imgix.net/images/2016_08_nevermind_89687-1600x1200.original.jpg?w=1200&h=630',
+    date: 'June 2010',
+    title: 'Lovely Album',
+    description: 'One advanced diverted domestic sex repeated bringing you old. Possible procured her trifling laughter thoughts property she met way. Companions shy had solicitude favourable own. Which could saw guest man now heard but.'  },
   {
     id: 2,
-    image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
-    name: 'john doe',
-    title: 'regular guy',
-    quote:
-      'Gastropub sustainable tousled prism occupy. Viral XOXO roof party brunch actually, chambray listicle microdosing put a bird on it paleo subway tile squid umami.',
+    image: 'https://vmp-www.imgix.net/images/2016_08_nevermind_89687-1600x1200.original.jpg?w=1200&h=630',
+    date: 'August 2015',
+    title: 'Cool Album',
+    description:
+      'Lasted my coming uneasy marked so should. Gravity letters it amongst herself dearest an windows by. Wooded ladies she basket season age her uneasy saw.',
   },
   {
     id: 3,
-    image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg',
-    name: 'peter smith',
-    title: 'product designer',
-    quote:
-      'Drinking vinegar polaroid street art echo park, actually semiotics next level butcher master cleanse hammock flexitarian ethical paleo.',
+    image: 'https://vmp-www.imgix.net/images/2016_08_nevermind_89687-1600x1200.original.jpg?w=1200&h=630',
+    date: 'February 2018',
+    title: 'Soft Rock',
+    description:
+      'Folly words widow one downs few age every seven. If miss part by fact he park just shew. Discovered had get considered projection who favourable. Necessary up knowledge it tolerably.',
   },
   {
     id: 4,
-    image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
-    name: 'susan andersen',
-    title: 'the boss',
-    quote:
-      'Marfa af yr 3 wolf moon kogi, readymade distillery asymmetrical seitan kale chips fingerstache cloud bread mustache twee messenger bag. ',
-  },
+    image: 'https://vmp-www.imgix.net/images/2016_08_nevermind_89687-1600x1200.original.jpg?w=1200&h=630',
+    date: 'March 2019',
+    title: 'Best Singles',
+    description:'Unwilling departure education is be dashwoods or an. Use off agreeable law unwilling sir deficient curiosity instantly. Easy mind life fact with see has bore ten. Parish any chatty can elinor direct for former.'  },
 ];
 
-export default people;
+export default albums;
